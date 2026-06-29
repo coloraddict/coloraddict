@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ajay Jaiswar
+# Hi there 👋, I'm Ajay
 
 💻 Senior Fullstack Developer (MEAN stack) with 14+ years of experience  
 🚀 Passionate about clean, scalable code and mentoring teams  
