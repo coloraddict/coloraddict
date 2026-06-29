@@ -16,4 +16,4 @@
 ---
 
 ### 📫 Connect with Me
-[LinkedIn]([https://www.linkedin.com/in/ajayjaiswar-dev](https://www.linkedin.com/in/ajay-jaiswar-a090382b)) | [Email](mailto:ajayvjaiswar@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ajayjaiswar-dev)) | [Email](mailto:ajayvjaiswar@gmail.com)
