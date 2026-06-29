@@ -26,6 +26,15 @@
 ![OAuth](https://img.shields.io/badge/OAuth-000000?style=for-the-badge&logo=oauth&logoColor=white)
 ![OpenID](https://img.shields.io/badge/OpenID-FF6600?style=for-the-badge&logo=openid&logoColor=white)
 
+### 🚀 Exploring Latest Tech
+![RAG](https://img.shields.io/badge/RAG-Document%20Retrieval-blue?style=for-the-badge&logo=readme&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-orange?style=for-the-badge&logo=protocol&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-FFD700?style=for-the-badge&logo=anthropic&logoColor=black)
+
+
 
 ---
 
