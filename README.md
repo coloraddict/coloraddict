@@ -8,8 +8,6 @@
 ---
 
 ### 🛠️ Tech Stack
-### 🛠️ Tech Stack
-
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -20,6 +18,13 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🔐 Authentication & Security
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=node.js&logoColor=white)
+![SSO](https://img.shields.io/badge/SSO-Authentication-blue?style=for-the-badge&logo=lock&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-000000?style=for-the-badge&logo=oauth&logoColor=white)
+![OpenID](https://img.shields.io/badge/OpenID-FF6600?style=for-the-badge&logo=openid&logoColor=white)
 
 
 ---
