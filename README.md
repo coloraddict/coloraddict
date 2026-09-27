@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Ajay
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Angular;NodeJs;Express;Frontend;Backend)](https://git.io/typing-svg)
+
 💻 Senior Fullstack Developer (MEAN stack) with 14+ years of experience  
 🚀 Passionate about clean, scalable code and mentoring teams  
 ☁️ Currently pursuing AWS Cloud Practitioner certification  
